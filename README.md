@@ -1,3 +1,9 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/axiomsbane/count.svg" />
+</p>
+
+
 - 👋 Hi, I’m Aditya (@axiomsbane)
 - 👀 I’m interested in programming languages that offer pure functional programming. 
      I wish to be fluent in pure FP to be able to use it to create useful things.
